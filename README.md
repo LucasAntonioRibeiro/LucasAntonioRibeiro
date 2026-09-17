@@ -35,7 +35,6 @@
 ---
 
 ## 🌎 Conecte-se comigo
-## 📊 Estatísticas GitHub
 
 <div align="center">
 
