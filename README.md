@@ -25,12 +25,14 @@
 </div>
 
 ---
-
 ## 📊 Estatísticas GitHub
 
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasantonioribeiro&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasantonioribeiro&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </div>
 
 ---
