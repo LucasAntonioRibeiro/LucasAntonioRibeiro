@@ -11,7 +11,7 @@
 💡 Focado em desenvolvimento web, aplicações e boas práticas de programação  
 🚀 Em constante evolução buscando minha primeira oportunidade na área
 
-- 🌱 Atualmente aprendendo: **PHP, mysql entre outros**
+- 🌱 Atualmente aprendendo: **MongoDB, C# entre outros**
 - 💬 Interesse: **Desenvolvimento Web**
 - 📫 Contato: **lucasantonioribeiro13@gmail.com**
 - ⚡ Objetivo: Me tornar um desenvolvedor Front-End
